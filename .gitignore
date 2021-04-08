@@ -1,0 +1,2 @@
+#ignoring node modules
+/angular-app/node_modules
